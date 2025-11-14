@@ -1,20 +1,15 @@
 ## Hi there 👋
 
-<!--
-**AsadullaAsad/AsadullaAsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m curr# 🤩 About Me:
-- 👋 Hi, I’m Md Asadullah Asad
-- 👀 I’m passionate about DevOps and Android app development
-- 🌱 Currently diving deep into Software Development
+# 🤩 About Me:
+- 👋 Hi, I’m **Md Asadullah Asad**
+- 👀 Passionate about **DevOps** and **Android App Development**
+- 🌱 Currently diving deep into **Software Development**
 - 💡 Always eager to learn and explore new technologies
 
 ## 🌐 Connect with Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JubayerLikhon.L)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jubayer__likhon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jubayerlikhon45)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/asadul.asad.966405/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/jubayer__likhon](https://www.instagram.com/im_asadulla/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](www.linkedin.com/in/md-asadullah-asad-206692297)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,38 +31,25 @@ Here are some ideas to get you started:
 ![EJS](https://img.shields.io/badge/EJS-%23A91E50.svg?style=for-the-badge&logo=ejs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-<!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=b1nturi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=b1nturi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=b1nturi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AsadullaAsad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsadullaAsad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadullaAsad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🎉 Latest Projects
 Here are some of my recent works:
-- 🚀 [Calculator Project](https://github.com/b1nturi/Calculator_Project): This Android calculator project aims to create an intuitive app that supports both basic and advanced arithmetic operations. It involves developing a reliable back-end for efficient calculations and designing a sleek, user-friendly interface. The goal is to provide a dependable, efficient, and visually appealing tool for everyday mathematical needs.
-<!-- - 🌟 [Project 2](https://github.com/yourusername/project2): Brief description of what this project is about.
-- 🔧 [Project 3](https://github.com/yourusername/project3): Brief description of what this project is about.  -->
+<!-- 🚀 **Calculator Project**  
+  [🔗 GitHub Link](https://github.com/AsadullaAsad/Calculator_Project)  
+  An intuitive Android calculator app supporting basic and advanced math operations with a sleek UI and efficient backend.-->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=b1nturi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AsadullaAsad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=b1nturi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AsadullaAsad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=b1nturi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsadullaAsad&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=b1nturi&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=b1nturi)
----
-
-
-ently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=AsadullaAsad&label=Profile%20views&color=0e75b6&style=flat)
